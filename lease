@@ -1,0 +1,9 @@
+#!/bin/bash
+STRING1="Lease information for this VM:"
+STRING2="Start Date:20150430"
+STRING3="End Date:20150730"
+STRING4="Notifications:rashi283@gmail.com"
+echo $STRING1
+echo $STRING2
+echo $STRING3
+echo $STRING4
